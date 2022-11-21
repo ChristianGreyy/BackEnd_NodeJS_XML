@@ -3,30 +3,29 @@ const { Schema } = mongoose;
 
 const segmentSchema = new Schema(
   {
-    document_id: {
-      type: Schema.Types.ObjectId,
-      ref: "Document",
+    text: {
+      type: String,
       required: true,
     },
-    text: {
+    type: {
       type: String,
       required: true,
     },
     bold: {
       type: Boolean,
-      required: true,
+      required: false,
     },
     underline: {
       type: Boolean,
-      required: true,
+      required: false,
     },
     strike: {
       type: Boolean,
-      required: true,
+      required: false,
     },
     italic: {
       type: Boolean,
-      required: true,
+      required: false,
     },
   },
   {

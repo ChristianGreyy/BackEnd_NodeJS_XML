@@ -15,10 +15,6 @@ const documentSchema = new Schema(
       type: String,
       required: true,
     },
-    pages: {
-      type: Number,
-      required: true,
-    },
   },
   {
     timestamp: true,

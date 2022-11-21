@@ -1,0 +1,357 @@
+{
+  "result": {
+    "w:document": {
+      "_attributes": {
+        "xmlns:o": "urn:schemas-microsoft-com:office:office",
+        "xmlns:r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+        "xmlns:v": "urn:schemas-microsoft-com:vml",
+        "xmlns:w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
+        "xmlns:w10": "urn:schemas-microsoft-com:office:word",
+        "xmlns:wp": "http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing",
+        "xmlns:wps": "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
+        "xmlns:wpg": "http://schemas.microsoft.com/office/word/2010/wordprocessingGroup",
+        "xmlns:mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+        "xmlns:wp14": "http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing",
+        "xmlns:w14": "http://schemas.microsoft.com/office/word/2010/wordml",
+        "mc:Ignorable": "w14 wp14"
+      },
+      "w:body": {
+        "w:p": [
+          {
+            "w:pPr": {
+              "w:pStyle": {
+                "_attributes": {
+                  "w:val": "Normal"
+                }
+              },
+              "w:rPr": {
+                "w:rFonts": {
+                  "_attributes": {
+                    "w:ascii": "Calibri",
+                    "w:hAnsi": "Calibri",
+                    "w:eastAsia": "宋体",
+                    "w:cs": "",
+                    "w:asciiTheme": "minorHAnsi",
+                    "w:cstheme": "minorBidi",
+                    "w:eastAsiaTheme": "minorEastAsia",
+                    "w:hAnsiTheme": "minorHAnsi"
+                  }
+                },
+                "w:color": {
+                  "_attributes": {
+                    "w:val": "auto"
+                  }
+                },
+                "w:kern": {
+                  "_attributes": {
+                    "w:val": "0"
+                  }
+                },
+                "w:sz": {
+                  "_attributes": {
+                    "w:val": "40"
+                  }
+                },
+                "w:szCs": {
+                  "_attributes": {
+                    "w:val": "40"
+                  }
+                },
+                "w:lang": {
+                  "_attributes": {
+                    "w:val": "en-US",
+                    "w:eastAsia": "zh-CN",
+                    "w:bidi": "ar-SA"
+                  }
+                }
+              }
+            },
+            "w:r": {
+              "w:rPr": {
+                "w:rFonts": {
+                  "_attributes": {
+                    "w:eastAsia": "宋体",
+                    "w:cs": "",
+                    "w:cstheme": "minorBidi",
+                    "w:eastAsiaTheme": "minorEastAsia"
+                  }
+                },
+                "w:color": {
+                  "_attributes": {
+                    "w:val": "auto"
+                  }
+                },
+                "w:kern": {
+                  "_attributes": {
+                    "w:val": "0"
+                  }
+                },
+                "w:sz": {
+                  "_attributes": {
+                    "w:val": "40"
+                  }
+                },
+                "w:szCs": {
+                  "_attributes": {
+                    "w:val": "40"
+                  }
+                },
+                "w:lang": {
+                  "_attributes": {
+                    "w:val": "en-US",
+                    "w:eastAsia": "zh-CN",
+                    "w:bidi": "ar-SA"
+                  }
+                }
+              },
+              "w:t": "Trang 1"
+            }
+          },
+          {
+            "w:pPr": {
+              "w:pStyle": {
+                "_attributes": {
+                  "w:val": "Normal"
+                }
+              },
+              "w:rPr": {
+                "w:rFonts": {
+                  "_attributes": {
+                    "w:ascii": "Calibri",
+                    "w:hAnsi": "Calibri",
+                    "w:eastAsia": "宋体",
+                    "w:cs": "",
+                    "w:asciiTheme": "minorHAnsi",
+                    "w:cstheme": "minorBidi",
+                    "w:eastAsiaTheme": "minorEastAsia",
+                    "w:hAnsiTheme": "minorHAnsi"
+                  }
+                },
+                "w:color": {
+                  "_attributes": {
+                    "w:val": "auto"
+                  }
+                },
+                "w:kern": {
+                  "_attributes": {
+                    "w:val": "0"
+                  }
+                },
+                "w:sz": {
+                  "_attributes": {
+                    "w:val": "40"
+                  }
+                },
+                "w:szCs": {
+                  "_attributes": {
+                    "w:val": "40"
+                  }
+                },
+                "w:lang": {
+                  "_attributes": {
+                    "w:val": "en-US",
+                    "w:eastAsia": "zh-CN",
+                    "w:bidi": "ar-SA"
+                  }
+                }
+              }
+            },
+            "w:r": [
+              {
+                "w:rPr": {
+                  "w:rFonts": {
+                    "_attributes": {
+                      "w:eastAsia": "宋体",
+                      "w:cs": "",
+                      "w:cstheme": "minorBidi",
+                      "w:eastAsiaTheme": "minorEastAsia"
+                    }
+                  },
+                  "w:color": {
+                    "_attributes": {
+                      "w:val": "auto"
+                    }
+                  },
+                  "w:kern": {
+                    "_attributes": {
+                      "w:val": "0"
+                    }
+                  },
+                  "w:sz": {
+                    "_attributes": {
+                      "w:val": "40"
+                    }
+                  },
+                  "w:szCs": {
+                    "_attributes": {
+                      "w:val": "40"
+                    }
+                  },
+                  "w:lang": {
+                    "_attributes": {
+                      "w:val": "en-US",
+                      "w:eastAsia": "zh-CN",
+                      "w:bidi": "ar-SA"
+                    }
+                  }
+                }
+              },
+              {
+                "w:br": {
+                  "_attributes": {
+                    "w:type": "page"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "w:pPr": {
+              "w:pStyle": {
+                "_attributes": {
+                  "w:val": "Normal"
+                }
+              },
+              "w:rPr": {
+                "w:rFonts": {
+                  "_attributes": {
+                    "w:ascii": "Calibri",
+                    "w:hAnsi": "Calibri",
+                    "w:eastAsia": "宋体",
+                    "w:cs": "",
+                    "w:asciiTheme": "minorHAnsi",
+                    "w:cstheme": "minorBidi",
+                    "w:eastAsiaTheme": "minorEastAsia",
+                    "w:hAnsiTheme": "minorHAnsi"
+                  }
+                },
+                "w:color": {
+                  "_attributes": {
+                    "w:val": "auto"
+                  }
+                },
+                "w:kern": {
+                  "_attributes": {
+                    "w:val": "0"
+                  }
+                },
+                "w:sz": {
+                  "_attributes": {
+                    "w:val": "40"
+                  }
+                },
+                "w:szCs": {
+                  "_attributes": {
+                    "w:val": "40"
+                  }
+                },
+                "w:lang": {
+                  "_attributes": {
+                    "w:val": "en-US",
+                    "w:eastAsia": "zh-CN",
+                    "w:bidi": "ar-SA"
+                  }
+                }
+              }
+            },
+            "w:r": [
+              {
+                "w:rPr": {
+                  "w:rFonts": {
+                    "_attributes": {
+                      "w:eastAsia": "宋体",
+                      "w:cs": "",
+                      "w:cstheme": "minorBidi",
+                      "w:eastAsiaTheme": "minorEastAsia"
+                    }
+                  },
+                  "w:color": {
+                    "_attributes": {
+                      "w:val": "auto"
+                    }
+                  },
+                  "w:kern": {
+                    "_attributes": {
+                      "w:val": "0"
+                    }
+                  },
+                  "w:sz": {
+                    "_attributes": {
+                      "w:val": "40"
+                    }
+                  },
+                  "w:szCs": {
+                    "_attributes": {
+                      "w:val": "40"
+                    }
+                  },
+                  "w:lang": {
+                    "_attributes": {
+                      "w:val": "en-US",
+                      "w:eastAsia": "zh-CN",
+                      "w:bidi": "ar-SA"
+                    }
+                  }
+                },
+                "w:t": "Trang 2"
+              },
+              {
+                "w:br": {
+                  "_attributes": {
+                    "w:type": "page"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "w:sectPr": {
+          "w:type": {
+            "_attributes": {
+              "w:val": "nextPage"
+            }
+          },
+          "w:pgSz": {
+            "_attributes": {
+              "w:w": "11906",
+              "w:h": "16838"
+            }
+          },
+          "w:pgMar": {
+            "_attributes": {
+              "w:left": "1800",
+              "w:right": "1800",
+              "w:header": "0",
+              "w:top": "1440",
+              "w:footer": "0",
+              "w:bottom": "1440",
+              "w:gutter": "0"
+            }
+          },
+          "w:pgNumType": {
+            "_attributes": {
+              "w:fmt": "decimal"
+            }
+          },
+          "w:formProt": {
+            "_attributes": {
+              "w:val": "false"
+            }
+          },
+          "w:textDirection": {
+            "_attributes": {
+              "w:val": "lrTb"
+            }
+          },
+          "w:docGrid": {
+            "_attributes": {
+              "w:type": "default",
+              "w:linePitch": "360",
+              "w:charSpace": "8192"
+            }
+          }
+        }
+      }
+    }
+  }
+}
